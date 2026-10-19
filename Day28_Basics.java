@@ -8,4 +8,5 @@ function Person(name) {
 Object.assign(Person.prototype, canEat);
 
 const person = new Person("John");
-person.eat(); // Output: Eating
+person.eat();
+// Output: Eating
