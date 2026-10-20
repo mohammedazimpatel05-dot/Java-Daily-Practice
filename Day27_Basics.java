@@ -5,4 +5,5 @@ class MathUtil {
     }
 }
 
-console.log(MathUtil.add(2, 3)); // Output: 5
+console.log(MathUtil.add(2, 3)); 
+// Output: 5
